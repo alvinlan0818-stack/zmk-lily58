@@ -15,10 +15,10 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: nice_nano
     shield: lily58_left
     #cmake-args: -DCONFIG_ZMK_STUDIO=y
     #extra_west_args: -sn "studio-rpc-usb-uart"
     #snippet: -sn "studio-rpc-usb-uart"
-  - board: nice_nano_v2
+  - board: nice_nano
     shield: lily58_right
